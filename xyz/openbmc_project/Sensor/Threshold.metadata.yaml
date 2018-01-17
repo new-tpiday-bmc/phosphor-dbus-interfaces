@@ -8,3 +8,14 @@
   meta:
     - str: "SENSOR_TYPE=%s"
       type: string
+
+- name: WarningHigh
+  level: WARNING 
+  meta:
+    - str: "SENSOR_TYPE=%s"
+      type: string
+- name: WarningLow
+  level: WARNING 
+  meta:
+    - str: "SENSOR_TYPE=%s"
+      type: string

@@ -5,3 +5,12 @@
 # xyz.openbmc_project.Sensor.Threshold.CriticalLow
 - name: CriticalLow
   description: Sensor device has exceeded its lower bound.
+
+# xyz.openbmc_project.Sensor.Threshold.WarningHigh
+- name: WarningHigh
+  description: Sensor device has exceeded its upper bound.
+
+# xyz.openbmc_project.Sensor.Threshold.WarningLow
+- name: WarningLow
+  description: Sensor device has exceeded its lower bound.
+
